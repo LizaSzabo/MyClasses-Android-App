@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyClasses</string>
+    <string name="my_classes">My Classes: </string>
+    <string name="add_class">Add Class</string>
+    <string name="todo_list">TODO LIST</string>
+    <string name="new_class_name">New Class: </string>
+    <string name="add">ADD</string>
+    <string name="warning_message">Hiányzó adat</string>
+    <string name="action_settings">Settings</string>
+    <string name="az_esemenyeim">AZ ESEMÉYEIM:</string>
+    <string name="title">Title</string>
+    <string name="new_event_item">New Event</string>
+    <string name="add_event">Add Event</string>
+    <string name="sort">Sort</string>
+    <string name="x">X</string>
+    <string name="startdate">StartDate</string>
+    <string name="enddate">EndDate</string>
+    <string name="event_category">Event Category</string>
+    <string name="classname">Class</string>
+    <string name="event">Event</string>
+    <string name="a_hazi_feladataim">A HÁZI FELADATAIM:</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="a_viszgaim">A VISZGÁIM:</string>
+    <string name="a_zh_im">A ZH-im:</string>
+    <string-array name="category_items">
+        <item>HF</item>
+        <item>ZH</item>
+        <item>VISZGA</item>
+    </string-array>
+</resources>
